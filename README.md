@@ -76,5 +76,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 	127.0.0.1:8000/api/product/{product_id} // GET method  (product details)
 
 
-
+    <video width="320" height="240" controls>	  
+	  <source src="admin_overview.webm" type="video/webm">
+	  
+	</video>
 	
