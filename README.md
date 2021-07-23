@@ -80,4 +80,15 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 	  <source src="admin_overview.webm" type="video/webm">
 	  
 	</video>
+   admin user: 8866337764
+   password : lloyd@321
+   
+   
+   step to configure project
+   1) just clone this repo
+   2) compose install
+   3) .env file change databse setting
+   4) ther is sql file you can easy import or do laravel migration 
+    
+    
 	
